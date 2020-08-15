@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5",
-        "magicbit": "github:emakefun/pxt-magicbit#c2730ad2fc00f808a53e4eba2f2b201e47a848c5"
+        "magicbit": "github:emakefun/pxt-magicbit#c2730ad2fc00f808a53e4eba2f2b201e47a848c5",
+        "MakerBit-IR-Receiver": "github:1010technologies/pxt-makerbit-ir-receiver#v1.5.1"
     },
     "files": [
         "main.blocks",
